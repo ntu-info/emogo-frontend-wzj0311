@@ -26,3 +26,5 @@ This is a very small Expo project using **expo-router** with:
    ```
 
 3. Open the app on a device or emulator using the Expo dev tools.
+
+https://expo.dev/accounts/wen0311/projects/expo-router-mwe/builds/592ed400-4b46-44cd-9897-06328c888ada

@@ -7,7 +7,13 @@ export default function TabsLayout() {
       <Tabs.Screen
         name="index"
         options={{
-          title: "Home",
+          title: "Record",
+        }}
+      />
+      <Tabs.Screen
+        name="history"
+        options={{
+          title: "History",
         }}
       />
       <Tabs.Screen

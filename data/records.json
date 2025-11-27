@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4,
+    "videoUri": "video_4.mp4",
+    "assetId": "307634",
+    "sentiment": 2,
+    "latitude": 25.0036013,
+    "longitude": 121.5000971,
+    "timestamp": "2025-11-27T14:30:30.827Z",
+    "originalVideoUri": "file:///storage/emulated/0/DCIM/946e1258-fd6b-47a4-9c0a-65b63eaa5262.mp4"
+  },
+  {
+    "id": 3,
+    "videoUri": "video_3.mp4",
+    "assetId": "307632",
+    "sentiment": 2,
+    "latitude": 25.0181205,
+    "longitude": 121.5397624,
+    "timestamp": "2025-11-27T05:43:59.678Z",
+    "originalVideoUri": "file:///storage/emulated/0/DCIM/1c8bf3cc-41fb-4617-a1a9-4711f383e2d6.mp4"
+  },
+  {
+    "id": 2,
+    "videoUri": "video_2.mp4",
+    "assetId": "307631",
+    "sentiment": 2,
+    "latitude": 25.055337,
+    "longitude": 121.298165,
+    "timestamp": "2025-11-27T02:06:54.902Z",
+    "originalVideoUri": "file:///storage/emulated/0/DCIM/55f22934-bc65-47af-9608-39cab7dd47c8.mp4"
+  },
+  {
+    "id": 1,
+    "videoUri": "video_1.mp4",
+    "assetId": "307630",
+    "sentiment": 4,
+    "latitude": 25.055337,
+    "longitude": 121.298165,
+    "timestamp": "2025-11-26T15:00:53.921Z",
+    "originalVideoUri": "file:///storage/emulated/0/DCIM/5b5f5004-ad0f-4726-a676-87c4e48b7254.mp4"
+  }
+]
